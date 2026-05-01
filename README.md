@@ -9,11 +9,11 @@ If you host the script on GitHub or a private server, you can download and run i
 
 **Installer:**
 ```bash
-curl -sSL https://raw.githubusercontent.com/tiwut/C-Development-Environment---Install-Wizard/refs/heads/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/tiwut/CPP-Development-Environment---Install-Wizard/refs/heads/main/install.sh | bash
 ```
 **Uninstaller:**
 ```bash
-curl -sSL https://raw.githubusercontent.com/tiwut/C-Development-Environment---Install-Wizard/refs/heads/main/uninstall.sh | bash
+curl -sSL https://raw.githubusercontent.com/tiwut/CPP-Development-Environment---Install-Wizard/refs/heads/main/uninstall.sh | bash
 ```
 ___
 
